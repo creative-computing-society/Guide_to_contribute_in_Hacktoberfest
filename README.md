@@ -51,7 +51,9 @@ Put the address of your github link in <a href="(Place your link here)"> and you
 
 
 ## Step 9
-Then git add .(There is a space between the add and the dot after it) 
+Then:-
+git pull
+git add .(There is a space between the add and the dot after it) 
 git commit -m “first commit”
 git push --set-upstream origin [name_of_your_new_branch]
 Then, type your github username and password
