@@ -39,10 +39,6 @@ cd creative-computing-society.github.io
 
 
 ## Step 7 
-Create a new branch in the cloned repository and name it on your name
-git checkout -b [name_of_your_new_branch]
-
-## Step 8 
 Add the html tag on the table accordingly
 ![screenshot from 2018-10-03 02-26-01](https://user-images.githubusercontent.com/29003047/46376866-c49f7e80-c6b4-11e8-8b5a-4b4efa45ef55.png)
 Put your name in <td> tag
@@ -50,7 +46,7 @@ Put your personal message in next <td> (No explicit messages allowed)
 Put the address of your github link in <a href="(Place your link here)"> and your username before </a>
 
 
-## Step 9
+## Step 8
 Then:-
 git pull
 git add .(There is a space between the add and the dot after it) 
@@ -60,7 +56,7 @@ Then, type your github username and password
 ![screenshot from 2018-10-03 02-40-26](https://user-images.githubusercontent.com/29003047/46377467-45ab4580-c6b6-11e8-8de5-fbaa55641d4d.png)
 
 
-## Step 10 
+## Step 9 
 Now open the repository which you forked in your account and click on the Compare and Pull Request
 Then click on the Create Pull Request
 ![screenshot from 2018-10-03 02-41-51](https://user-images.githubusercontent.com/29003047/46377657-d2560380-c6b6-11e8-8a12-d86d893cda06.png)
