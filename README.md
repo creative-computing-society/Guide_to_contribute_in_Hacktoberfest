@@ -1,7 +1,8 @@
-# Hello World!
+# Hello World WE are Creative Computing Society!
 Follow these steps
 accordingly to contribute to Hacktoberfest to earn swags and learn
-something about the open source contribution.
+something about the open source contribution
+which is very cool.
 
 ## Step 1 
 Create a account on Github
