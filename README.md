@@ -62,4 +62,4 @@ Then click on the Create Pull Request
 ![screenshot from 2018-10-03 02-41-51](https://user-images.githubusercontent.com/29003047/46377657-d2560380-c6b6-11e8-8a12-d86d893cda06.png)
 ![screenshot from 2018-10-03 02-42-26](https://user-images.githubusercontent.com/29003047/46377695-eef23b80-c6b6-11e8-801e-e585af62bcf9.png)
 
-
+Follow these steps to win a tshirt.
