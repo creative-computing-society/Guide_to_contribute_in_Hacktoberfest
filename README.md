@@ -22,7 +22,7 @@ https://github.com/creative-computing-society/creative-computing-society.github.
 
 
 ## Step 4 
-Star this repository
+Star this repository and enjoy
 ![screenshot from 2018-10-03 02-12-11](https://user-images.githubusercontent.com/29003047/46376039-9751d100-c6b2-11e8-974d-e1c2a36d84b5.png)
 
 ## Step 5 
